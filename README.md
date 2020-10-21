@@ -34,6 +34,9 @@
 ![image](https://user-images.githubusercontent.com/57000871/96544920-6f0d8d00-12e2-11eb-937c-d6f880376fbb.png)
 
 
+# 영상 링크
+https://www.youtube.com/watch?v=__KevnqSUC4
+
 # 프로젝트 참여자
 
 ● https://github.com/seulgikim2019
